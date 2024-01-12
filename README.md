@@ -1,2 +1,2 @@
-![header](https://capsule-render.vercel.app/api?type=Rounded&text=Kimjongdeok11)
+![header](https://capsule-render.vercel.app/api?type=Waving&text=Kimjongdeok11)
 
